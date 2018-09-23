@@ -1,4 +1,4 @@
-package com.zoulshell.springbootjdk8;
+package com.zoulshell;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

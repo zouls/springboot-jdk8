@@ -1,4 +1,4 @@
-package com.zoulshell.springbootjdk8;
+package com.zoulshell;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
